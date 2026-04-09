@@ -1,0 +1,4 @@
+model,threshold,val_best_f1,test_roc_auc,test_pr_auc,test_f1,test_brier,lift_at_20pct
+CatBoost,0.3572,0.5897,0.8563,0.6492,0.6021,0.0994,3.163
+RandomForest,0.4561,0.5788,0.8511,0.6307,0.6003,0.1094,3.163
+XGBoost,0.3924,0.6038,0.8501,0.6434,0.6054,0.0999,3.1768

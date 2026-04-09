@@ -1,0 +1,5 @@
+{
+  "winner_model": "CatBoost",
+  "threshold": 0.3572,
+  "val_best_f1": 0.5897
+}
